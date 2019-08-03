@@ -15,7 +15,7 @@ spec:
           value: "admin"
         -
           name: "MYSQL_DATABASE"
-          value: "glarimy"
+          value: "concur"
         -
           name: "MYSQL_ROOT_PASSWORD"
           value: "admin"
